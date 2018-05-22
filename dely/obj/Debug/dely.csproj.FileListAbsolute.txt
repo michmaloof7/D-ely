@@ -1,0 +1,9 @@
+C:\Users\michm\Documents\University\Simulacion\dely\dely\bin\Debug\dely.exe.config
+C:\Users\michm\Documents\University\Simulacion\dely\dely\bin\Debug\dely.exe
+C:\Users\michm\Documents\University\Simulacion\dely\dely\bin\Debug\dely.pdb
+C:\Users\michm\Documents\University\Simulacion\dely\dely\bin\Debug\MathNet.Numerics.dll
+C:\Users\michm\Documents\University\Simulacion\dely\dely\bin\Debug\MathNet.Numerics.xml
+C:\Users\michm\Documents\University\Simulacion\dely\dely\obj\Debug\dely.csprojResolveAssemblyReference.cache
+C:\Users\michm\Documents\University\Simulacion\dely\dely\obj\Debug\dely.csproj.CoreCompileInputs.cache
+C:\Users\michm\Documents\University\Simulacion\dely\dely\obj\Debug\dely.exe
+C:\Users\michm\Documents\University\Simulacion\dely\dely\obj\Debug\dely.pdb
